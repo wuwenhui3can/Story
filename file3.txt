@@ -1,1 +1,2 @@
 test file 3 for feature 1
+new line
