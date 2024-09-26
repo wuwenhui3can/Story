@@ -1,1 +1,1 @@
-test file 2 for feature 4
+test file 2 for feature 4, add conflict
